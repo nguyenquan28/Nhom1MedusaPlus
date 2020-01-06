@@ -1,0 +1,4 @@
+admin: admin@gmail.com
+	medusa
+member : member@gmail.com
+	medusa
